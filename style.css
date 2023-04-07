@@ -1,0 +1,72 @@
+body,
+html {
+  width: 100%;
+  height: 100%;
+  font-family: 'Montserrat', sans-serif;
+  background: url(jonathan-velasquez-c1ZN57GfDB0-unsplash.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+img{
+  margin-bottom: 200px;
+  width: 300px;
+  border: 5px solid lightgray;
+} 
+
+h1{
+  font-size: 3rem;
+  color: white;
+}
+
+p{
+  color: white;
+  padding: 1rem 3rem 0rem 3rem;
+  font-weight: 500;
+
+}
+
+hr {
+    margin: 20px auto;
+    color: white;
+    border: 1px solid white;
+    max-width: 140px;
+    opacity: 1;  
+}
+
+footer {
+    color: white;
+    padding: 10rem 3rem 0rem 3rem;
+    font-weight: 500;
+    font-size: 1rem;
+}
+
+.buffer {
+  height: 5rem;
+}
+
+.btn {
+  font-weight: 500;
+  border-radius: 400px;
+  text-transform: uppercase;
+  border-left-width: 50px;
+  border-Right-width: 50px;
+
+}
+
+.btn-dark{
+  background-color: #3b3a3a;
+  border-color: #3b3a3a;
+}
+
+.btn-dark:hover {
+  background-color: #080808;
+  border-color: #080808;
+}
+
+.btn-xl {
+    padding: 1rem 2rem;
+}
+
